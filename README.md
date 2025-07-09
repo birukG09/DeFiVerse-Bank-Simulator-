@@ -1,3 +1,4 @@
+![image alt](https://github.com/birukG09/DeFiVerse-Bank-Simulator-/blob/ae5486e894461c205d325877d470bd6d0c11d1e2/FireShot%20Capture%20003%20-%20v0%20-%20%5Bpreview-figma-template-import-kzmnyitkau0jr248yq1v.vusercontent.net%5D.png)
 # 🚀 DeFiVerse Bank Simulator 🌐💰
 
 > **DeFiVerse Bank Simulator** is a cutting-edge decentralized finance (DeFi) ecosystem simulator designed to bring the complex world of blockchain banking, tokenomics, and decentralized governance right to your fingertips!  
@@ -109,4 +110,4 @@ cargo build --release
 # 5. Start frontend development server
 cd ../frontend
 npm start
-![image alt](https://github.com/birukG09/DeFiVerse-Bank-Simulator-/blob/ae5486e894461c205d325877d470bd6d0c11d1e2/FireShot%20Capture%20003%20-%20v0%20-%20%5Bpreview-figma-template-import-kzmnyitkau0jr248yq1v.vusercontent.net%5D.png)
+
